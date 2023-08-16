@@ -4,7 +4,7 @@ REELS = [["   X   ","  BAR  ","BAR BAR","   0   ","   X   "],
          ["BAR BAR","  BAR  ","   X   ","   0   ","   X   "], 
          ["  BAR  ","   X   ","BAR BAR","   0   ","   X   "]]
 PAYOUT = {"   0   " : 0,"   X   " : 10, "  BAR  " : 20, "BAR BAR" : 50}
-STAKE = 10
+STAKE = 5
 
 def get_deposit():
     amount = input("Deposit: ")
