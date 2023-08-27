@@ -1,0 +1,3 @@
+# SlotMachine
+
+CLI slot machine
